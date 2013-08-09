@@ -7,4 +7,4 @@ The purpose here is to search multiple feature services from the same <Input>, d
 
 Next we'll add a map to the App !
 
-Author : Christophe Tourret / @ChrisTourret
+Author : Christophe Tourret / <a href="http://twitter.com/ChrisTourret">@ChrisTourret</a>
