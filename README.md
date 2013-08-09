@@ -7,4 +7,6 @@ The purpose here is to search multiple feature services from the same <Input>, d
 
 Next we'll add a map to the App !
 
+<a href="http://esrifrance.github.io/Typeahead-on-ArcGIS/">Let's play with the demo !</a>
+
 Author : Christophe Tourret / <a href="http://twitter.com/ChrisTourret">@ChrisTourret</a>
