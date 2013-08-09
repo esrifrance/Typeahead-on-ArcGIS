@@ -1,4 +1,4 @@
-Typeahead.js-on-ArcGIS
+Typeahead.js on ArcGIS
 ===================
 
 An example showing how to use Twitter typeahead.js on ArcGIS Online
